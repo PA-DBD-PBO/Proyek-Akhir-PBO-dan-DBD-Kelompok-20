@@ -43,7 +43,7 @@ final String insert = "INSERT INTO ...";: Query SQL untuk operasi insert data.
 final String update = "UPDATE ...";: Query SQL untuk operasi update data.
 final String delete = "DELETE FROM ...";: Query SQL untuk operasi hapus data.
 final String select = "SELECT * FROM ...";: Query SQL untuk operasi select data.
-final String Search = "SELECT * FROM ...";: Query SQL untuk pencarian data berdasarkan nama wahana.
+final String Search = "SELECT * FROM ...";: Query SQL untuk pencarian data berdasarkan nama wahana.hhh
 
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/b175b782-c429-4e6d-adc2-aed815cdcf68)
