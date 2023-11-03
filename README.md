@@ -50,6 +50,30 @@ final String Search = "SELECT * FROM ...";: Query SQL untuk pencarian data berda
 
 Konstruktor kelas wahana_bermain yang melakukan inisialisasi koneksi dengan menggunakan metode configDB dari kelas database.
 
+1. Create (Insert)
+Metode insert digunakan untuk menambahkan (atau memasukkan) data baru ke dalam tabel 'wahana_bermain' di database.
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/735972ec-30d0-4565-a935-1494a6dc211e)
+
+2. Read (Select)
+Metode getALL digunakan untuk mengambil semua data yang ada dalam tabel 'wahana_bermain'.
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/8f8615e7-0783-4f46-8dd7-3c16b749c7aa)
+
+3. Update
+Metode update digunakan untuk memperbarui data yang sudah ada dalam tabel 'wahana_bermain' berdasarkan ID wahana.
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/34d4ad4c-bbba-4ce1-9108-239ee390fadb)
+
+
+
+
+4. Delete
+Metode delete digunakan untuk menghapus data dari tabel 'wahana_bermain' berdasarkan ID wahana.
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/f08df200-83fa-4340-9c20-f1c3bfc782bc)
+
+
 # Output
 
 ## Register
