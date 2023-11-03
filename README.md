@@ -34,6 +34,7 @@ Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memain
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/470c6d7c-980d-492e-80c1-8403c53d8b1c)
 
+### Tampilan Register Berhasil
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/5a1f0e76-431b-4334-b883-d5ce431cecf1)
 
@@ -66,15 +67,18 @@ Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memain
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/b1df4fcb-3d83-4d09-a7a9-dbf71b77ecbb)
 
+### Tampilan Berhasil Menambah
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/80a3ce9c-35c9-47e6-87f4-e5d0bf6774a7)
 
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/5dd37f5f-96d5-425e-a137-f8b2461c906d)
 
+### Update Wahana
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/a80e54a9-aa83-4cf0-a825-cf4e859ece6e)
 
+### Tampilan Berhasil Update
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/94e78bfb-43a9-4f29-bccf-4c2b30cea687)
 
@@ -84,6 +88,8 @@ Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memain
 ### Hapus Wahana
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/ab893461-d9b2-4a43-8bd5-f3d177d0c498)
+
+### Tampilan Berhasil Hapus
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/4044d1ff-1d8a-497e-8290-4b6883cf534f)
 
