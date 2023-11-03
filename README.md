@@ -58,7 +58,7 @@ Metode insert digunakan untuk menambahkan (atau memasukkan) data baru ke dalam t
 2. Read (Select)
 Metode getALL digunakan untuk mengambil semua data yang ada dalam tabel 'wahana_bermain'.
 
-![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/8f8615e7-0783-4f46-8dd7-3c16b749c7aa)
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/3f080f88-5d44-4960-9a38-f18d5fa653f6)
 
 3. Update
 Metode update digunakan untuk memperbarui data yang sudah ada dalam tabel 'wahana_bermain' berdasarkan ID wahana.
