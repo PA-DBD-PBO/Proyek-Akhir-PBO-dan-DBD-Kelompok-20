@@ -1,9 +1,20 @@
-# Proyek-Akhir-PBO-dan-DBD-Kelompok-20
+.lo9# Proyek-Akhir-PBO-dan-DBD-Kelompok-20
 Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memainkan peran penting dalam menjaga, meningkatkan, dan mengelola taman bermain agar dapat memberikan lingkungan yang aman, menyenangkan, dan memuaskan bagi pengunjung.
+
+# Kelompok 20
+## Nama Kelompok:
+### - Dinda Nur Aini (2209116023)
+### - Juventia Adelia Putri (2209116032)
 
 # Flowchart
 
-![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/1eb21ca9-c7c5-4af8-9f05-95a6a438c211)
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/18c359c0-6c0c-4582-afc4-b0b63d1462cc)
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/99aa4f14-e243-4c99-a842-b51df29bfe29)
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/3752c6cd-f7a9-46a0-9e33-4dc3059b4e1e)
+
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/9960f880-bdcb-4785-877f-e60dd9d50b5c)
 
 
 # Hirarki
@@ -37,15 +48,20 @@ Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memain
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/43f88a68-1bfc-4899-b1a0-bd1233271a3d)
 
 
+### Tampilan Login Berhasil
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/ebe1d334-38b5-4887-936e-573e787b654b)
+
+
+
+### Tampilan Login Gagal
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/cfd92cb5-42b0-43d6-bd54-df9f2dccfd97)
+
 
 ## Menu Utama
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/709ce34c-dd89-4694-b15d-27cef4061075)
 
 ## Menu Wahana
-
-
 
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/b1df4fcb-3d83-4d09-a7a9-dbf71b77ecbb)
