@@ -27,6 +27,8 @@ Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memain
 
 # Kodingan
 
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/bff9af8f-ea12-45c2-9494-138cdb847d09)
+
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/6c2f873c-4c5e-4855-8fb8-a5ac03e0914e)
 
 Package controller digunakan untuk mengelompokkan kelas-kelas terkait pengontrolan atau kontrol dari aplikasi.
