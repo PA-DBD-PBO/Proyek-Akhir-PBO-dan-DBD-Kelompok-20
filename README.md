@@ -19,6 +19,8 @@ Tema pengelolaan wahana bermain dipilih karena pengelolaan wahana bermain memain
 
 # Hirarki
 
+![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/a30de931-5796-467c-8446-ed1569642e01)
+
 # ERD
 
 ![image](https://github.com/PA-DBD-PBO/Proyek-Akhir-PBO-dan-DBD-Kelompok-20/assets/127454468/2ae304bb-88a5-4486-b7a1-9eaaf383b123)
